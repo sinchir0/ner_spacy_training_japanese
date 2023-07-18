@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ner-spacy-training-japanese"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "ner_spacy_training_japanese"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+spacy = "^3.6.0"
+ipykernel = "^6.24.0"
+sudachipy = "^0.6.7"
+sudachidict-core = "^20230110"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
