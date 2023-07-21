@@ -12,6 +12,7 @@ spacy = "^3.6.0"
 ipykernel = "^6.24.0"
 sudachipy = "^0.6.7"
 sudachidict-core = "^20230110"
+ipywidgets = "^8.0.7"
 
 
 [build-system]
