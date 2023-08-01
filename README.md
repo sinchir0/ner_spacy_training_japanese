@@ -1,1 +1,1 @@
-# ner_spacy_training_japanize
+# ner_spacy_training_japaneze
